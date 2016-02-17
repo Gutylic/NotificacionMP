@@ -1,0 +1,7 @@
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\mercadopago.dll
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\notebook\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

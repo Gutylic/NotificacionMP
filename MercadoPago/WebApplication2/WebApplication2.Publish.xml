@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\web" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="09/06/2013 08:44:02" />
+    <file relUrl="bin/mercadopago.dll" publishTime="09/06/2013 08:44:02" />
+    <file relUrl="receive-ipn.aspx" publishTime="02/16/2016 03:26:38" />
+    <file relUrl="Web.config" publishTime="02/16/2016 04:02:04" />
+    <file relUrl="bin/WebApplication2.pdb" publishTime="02/16/2016 23:19:00" />
+    <file relUrl="bin/WebApplication2.dll" publishTime="02/16/2016 23:19:01" />
+  </publishProfile>
+</publishData>
